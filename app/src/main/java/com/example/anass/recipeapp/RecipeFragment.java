@@ -17,9 +17,6 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.Unbinder;
 
-/*
- * Created by Seyfullah Semen on 25-11-2018.
- */
 public class RecipeFragment extends Fragment {
 
     private static final String TAG = RecipeFragment.class.getSimpleName();
